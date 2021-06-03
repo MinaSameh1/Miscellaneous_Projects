@@ -14,6 +14,8 @@ This repo is made for simple projects I made or projects that I think they don't
 │   │     └── new Cat it was to learn how to open files and read.  
 │   └── transpose-matrix.c   
 │        └── It was made to learn matrix handling in C and file handling, it saves data in file and retrieves on program relaunch if needed  
+│  
+│  
 ├── Employee.sql  
 │     └── Quick SQL project.  
 ├── Java  
@@ -22,6 +24,6 @@ This repo is made for simple projects I made or projects that I think they don't
 ├── README.md  
 └── py  
     ├── 8ball.py  
-            └── random 8Ball.  
+    │      └── random 8Ball.  
     └── Playing-Cards.py  
             └── Quick Program to shuffle Cards.
