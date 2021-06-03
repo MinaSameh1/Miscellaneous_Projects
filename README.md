@@ -2,8 +2,8 @@
 
 This repo is made for simple projects I made or projects that I think they don't need a repo for themselves
 .
-├── C
-│   ├── bubble-sort.c
+├── C  
+│   ├── bubble-sort.c  
 │   │      └──  Made a bubble sort that takes A LONG TIME to actually sort anything
 │   ├── finalGPAcal2.c
 │   │        └── a GPA cal for first year, works perfectly
