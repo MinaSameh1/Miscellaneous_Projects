@@ -25,5 +25,7 @@ This repo is made for simple projects I made or projects that I think they don't
 └── py  
     ├── 8ball.py  
     │      └── random 8Ball.  
-    └── Playing-Cards.py  
-            └── Quick Program to shuffle Cards.
+    ├── Playing-Cards.py  
+    │       └── Quick Program to shuffle Cards.
+    └── bin_search.py
+            └── Binary Search Program
